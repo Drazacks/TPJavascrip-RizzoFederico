@@ -17,7 +17,7 @@ horario ingresado */
 
 //----------Actividad 2: ciclo usando un while----------//
 
-alert("Bienvenidos! Esta es una calculadora del impuesto del IVA en Argentina.")
+alert("Bienvenidos! Esta es una calculadora del impuesto del IVA en Argentina, con la cual se pueden calcular varios montos y se mostrará la suma total de los mismo al final")
 let nombre = prompt("Ingrese su nombre:");
 let edad = parseInt(prompt("Ingrese su edad:"));
 let total = 0;
